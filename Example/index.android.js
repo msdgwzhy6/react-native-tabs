@@ -11,7 +11,7 @@ var {
   Text,
   View,
 } = React;
-var Tabs = require('react-native-tabs');
+var Tabs = require('./tabs_native');
 
 class Example extends React.Component {
   constructor(props){
